@@ -12,7 +12,7 @@
     "assert": "^2.0.0",
     "chrome-launcher": "^0.13.4",
     "fs": "0.0.1-security",
-    "lighthouse": "^6.1.1",
+    "lighthouse": "^9.6.7",
     "puppeteer": "^5.2.0",
     "request": "^2.88.2",
     "util": "^0.12.3"
